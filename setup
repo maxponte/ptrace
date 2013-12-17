@@ -1,0 +1,5 @@
+file trace
+b 46
+r
+layout split
+layout regs
